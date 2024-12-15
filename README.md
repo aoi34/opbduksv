@@ -8,3 +8,4 @@
 
 [Детали](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2F14.09%20%D0%BF%D1%80%D0%BE%2F%D0%A0%D1%83%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%2FZaprosVariant.pdf&name=ZaprosVariant.pdf&uid=1348601915)
 
+[ERD](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2F14.09%20%D0%BF%D1%80%D0%BE%2F%D0%A0%D1%83%D0%BF%D0%B0%D1%81%D0%BE%D0%B2%2FERD.pdf&name=ERD.pdf&uid=1348601915&nosw=1)
